@@ -1,4 +1,4 @@
-#recommand
+recommand
 =========
 A golang library for calculating the similarity.
 
@@ -8,7 +8,7 @@ you can choose follow algorithm
 >* euclidean distance
  
  
- ###How to use
+ ##How to use
  
  ``` go
  sim := similarity.NewSimilarity()
